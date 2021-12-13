@@ -1,0 +1,2 @@
+Line number : 2, Hazard Type : Load-use data hazard, Register : $2, Reason : Line 1
+Line number : 3, Hazard Type : Data hazard, Register : $4, Reason : Line 2
